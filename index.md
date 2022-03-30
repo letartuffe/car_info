@@ -1,7 +1,4 @@
 ---
-layout: default
----
----
 title: 차량 관련 정보 안내
 ---
 
