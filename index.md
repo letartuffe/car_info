@@ -1,123 +1,45 @@
+
 ---
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# □ 긴급 출동 : 1899-4200
 
 
-### Definition lists can be used with HTML syntax.
+차량 견인 필요시, 타이어 펑크, 배터리 방전 등 긴급 출동이 필요할 때 전화 접수
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# □ 보험 접수 : 1588-0100 (동부화재 단체보험)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+사고발생 시 보험 접수
+
+
+# □ 마스터 업체
+
+
+차량 수리, 월간/분기 점검 등 진행
+
+
+# □ 주유소 (S-오일 주유)
+
+
+[주유소 위치 보기 여기 터치 !! 클릭!!](http://kko.to/Ec3zB4hqk)
+
+
+
+| 주유소명      | 주소        | 연락처 |  비고 |
+|:-------------|:------------------|:------|:------|
+|유진주유소     |서귀포시 표선면 번영로 3239 3239 	|010-5145-1905	    |  세차장
+|남원주유소     |서귀포시 남원읍 태위로 710      	|064-764-5189	    |  셀프주유소 세차장
+|(주)한라석유 탐라주유|  서귀포시 516로 86 (토평동)        |064-762-8161	   |
+|동홍주유소	   |서귀포시 일주동로 8586 (동홍동)    |   064-732-5149	   |
+|서귀포농협서부주유소	| 서귀포시 태평로 22 (서호동) |064-738-5109| 
+|염돈주유소      |서귀포시 일주서로 136 (강정동) 	   |064-739-5400	    |   
+|반도주유소      |서귀포시 중산간동로 8338 (호근동)  | 064-739-5151	    |
+|신세기주유소    |서귀포시 일주서로 976 (색달동)	   |064-738-8870	    |  셀프주유소 
+|안덕하나주유소   | 서귀포시 안덕면 한창로 182 상창리|010-5722-3179	    |   셀프주유소 세차장
+|정석주유소(상창) |서귀포시 안덕면 한창로 275         |010-3693-7708	    |   세차장
+
+
+
